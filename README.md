@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alejandra Arevalo
 - 👀 I’m interested in UX/UI Design, Interactive Storytelling, Data Journalism and Social Impact
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on interactive visual essays, data vizzes and multimedia projects
 - 📫 You can reach me at alejandraarevalowrites@gmail.com
 
